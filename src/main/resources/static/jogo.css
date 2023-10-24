@@ -1,0 +1,47 @@
+body{
+    background-image: url('./img/fundo2.avif');
+}
+.h1{ 
+border:solid; border-color: #ff6ecc;
+background-color: rgba(255, 188, 201, 0.548);
+font-size: 50px;
+font-family: Courier;
+
+}
+.fundo{
+    background-color: rgb(255, 198, 251);
+    font-family: Courier;
+}
+.cadastro{
+    border:dashed; border-color: rgb(255, 112, 169);
+    font-size: 37px;
+    font-family: Courier;
+
+}
+.pesquisa{
+    border:dashed; border-color: rgb(255, 112, 169); 
+    font-size: 37px;
+    font-family: Courier;
+
+}
+.button{
+    background-color: rgb(253, 207, 237);
+    font-family: Courier;
+    border:solid; border-color: rgb(248, 151, 151);
+    font-size: 17px;
+
+}
+.nome{
+    font-family: Courier;
+    font-size: 20px;
+}
+.plat{
+    font-family: Courier;
+    font-size: 20px;
+
+}
+.id{
+    font-family: Courier;
+    font-size: 20px;
+
+}
